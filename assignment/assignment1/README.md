@@ -23,3 +23,6 @@ jupyter notebook
 3. 完成 `knn.ipynb` 和 `cs231n/classifier/k_nearest_neighbor.py` 中的 `TODO`
 
 4. 完成 
+sudo apt-get install wget;
+cd cs231n/datasets/;
+bash get_datasets.sh
